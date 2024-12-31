@@ -34,7 +34,7 @@ jobs:
         run: |
           echo Add other actions to build,
           echo test, and deploy your project.
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
